@@ -66,7 +66,7 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
 
             prom = suma/len(self.lista)
 
-            prom = 
+            prom = round(prom, 3)
 
             self.txt_resultado.setText(str(prom))
 
