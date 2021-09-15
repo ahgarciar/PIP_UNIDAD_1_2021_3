@@ -15,6 +15,7 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
 
         # Área de los Signals
 
+
     #area de slots
 
 
